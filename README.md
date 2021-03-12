@@ -1,5 +1,5 @@
 How to configuture your application
-
+copy this code "composer update" on your terminal
 open  ".env" file at the root folder and edit DB_PASSWORD and DB_USERNAME to your mysql system database password and username
 create mysql database call "notificationsystem"
 
